@@ -18,5 +18,4 @@
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=e3af2b&color=383838)
 
 ## 📈 Github Stats 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pantemma&show_icons=true&hide=stars,prs,issues,contribs&theme=gruvbox)](https://github.com/glauvus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantemma&layout=compact&theme=gruvbox)](https://github.com/glauvus)
